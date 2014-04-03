@@ -8,6 +8,8 @@ This CodeIgniter's Library that creates audio files using Google's text to speec
 
 Its usage is recommended for CodeIgniter 2 or greater.  
 
+**Note:** The API has a 100 character limit.  
+
 ## Usage
 
 ```php
